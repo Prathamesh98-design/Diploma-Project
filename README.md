@@ -1,2 +1,1 @@
-# Diploma-Project
-Diploma Project
+This is my Final Year Diploma project.
